@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lista09/Ex2/Ex2.iml" filepath="$PROJECT_DIR$/Lista09/Ex2/Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-03-6-2024/Lista08/Exe2/Exe2.iml" filepath="$PROJECT_DIR$/aula-03-6-2024/Lista08/Exe2/Exe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-03-6-2024/Lista08/Exe3/Exe3.iml" filepath="$PROJECT_DIR$/aula-03-6-2024/Lista08/Exe3/Exe3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-03-6-2024/Lista08/Exe4/Exe4.iml" filepath="$PROJECT_DIR$/aula-03-6-2024/Lista08/Exe4/Exe4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-03-6-2024/Lista08/Lista08.iml" filepath="$PROJECT_DIR$/aula-03-6-2024/Lista08/Lista08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista09/Lista09.iml" filepath="$PROJECT_DIR$/Lista09/Lista09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-03-6-2024/aula-03-6-2024.iml" filepath="$PROJECT_DIR$/aula-03-6-2024/aula-03-6-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-25-6-2024/aula-25-6-2024.iml" filepath="$PROJECT_DIR$/aula-25-6-2024/aula-25-6-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aulas-06-2024.iml" filepath="$PROJECT_DIR$/.idea/aulas-06-2024.iml" />
+    </modules>
+  </component>
+</project>
